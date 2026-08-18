@@ -1,0 +1,7 @@
+comparison_id,study_id,outcome,group1_label,event1,total1,group0_label,event0,total0,role,notes
+ACOSTA_HVLP_COMPLETION,ACOSTA2021,"HVLP completion","Standardized protocol",39,40,"Pre-protocol",16,26,"Implementation","Unadjusted within-center before-after comparison"
+ACOSTA_COGNITIVE_TESTING,ACOSTA2021,"Cognitive testing completion","Standardized protocol",38,40,"Pre-protocol",10,26,"Implementation","Unadjusted within-center before-after comparison"
+ACOSTA_SHUNT_RECEIPT,ACOSTA2021,"Shunt receipt","Standardized protocol",23,40,"Pre-protocol",22,26,"Implementation","Treatment receipt is influenced by selection as well as implementation"
+ACOSTA_RESPONSE,ACOSTA2021,"Clinical response among shunted","Standardized protocol",23,23,"Pre-protocol",17,22,"Implementation","Boundary cell handled directly by the RR model"
+ANDREN_RESPONSE,ANDREN2021,"Postoperative response","Delayed treatment",16,33,"Early treatment",54,69,"Delay consequence","Non-randomized waiting-time comparison"
+POUDEL_IMPROVEMENT,POUDEL2026,"Short-term functional improvement","Operated",15,24,"Not operated",2,14,"Treatment context","Strong confounding by indication; contextual only"

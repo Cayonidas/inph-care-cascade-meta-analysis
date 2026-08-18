@@ -1,0 +1,5 @@
+record_id,citation,why_apparently_eligible,exclusion_reason
+FT02,Petrella G et al. Fluids Barriers CNS. 2023;20(Suppl 2):A1. doi:10.1186/s12987-023-00498-1,iNPH diagnosis and shunt treatment in title,Single case report in meeting-abstract compilation; no eligible pathway denominator
+FT04,"Krening E et al. Attitudes Toward Research Among Asian Americans, Native Hawaiian, and Pacific Islanders and Whites with Parkinson's Disease in Hawaii. MDS 2025 abstract.",Neurologic disparities cohort captured by broad search,Wrong condition/population; no iNPH cohort or pathway outcome
+FT06,Belessiotis-Richards C et al. Alzheimers Dement. 2025;21:e108002. doi:10.1002/alz70861_108002,Older memory-clinic cohort with ventricular imaging,"No iNPH-specific cohort, diagnosis, or care-pathway denominator"
+FT28,"Poon WS et al., eds. Intracranial Pressure and Brain Monitoring XII. 2005. doi:10.1007/3-211-32318-X",Contains hydrocephalus and intracranial-pressure material,"Edited proceedings/book compilation, not an independent primary report"

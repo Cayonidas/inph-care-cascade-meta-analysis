@@ -1,0 +1,4 @@
+Pipeline completed: 2026-07-30 01:26:18 UTC
+Master workbook: D:\Faculdade\Projetos e IC\Neuro\Meta-Análise\PARA APRESENTAÇÃO E PUBLICAÇÃO\Diagnosis gaps iNPH\DIAGNOSIS GAPS iNPH\iNPH_Analysis_Pipeline_v2.1_FINAL_2026-07-\iNPH_Analysis_Pipeline_v2.1_FINAL\data\raw\iNPH_Master_ReExtraction_v4.xlsx
+Mapped analysis rows: 59
+Unmapped extracted effects: 88

@@ -1,0 +1,36 @@
+cff-version: 1.2.0
+message: "If you use these data or code, please cite the version-specific repository release and the associated article."
+type: software
+title: "Denominator-specific transitions in the iNPH care pathway: data and analysis code"
+version: 1.0.0
+date-released: 2026-08-18
+repository-code: "https://github.com/Cayonidas/inph-care-cascade-meta-analysis"
+url: "https://github.com/Cayonidas/inph-care-cascade-meta-analysis"
+license: MIT
+authors:
+  - given-names: Caio
+    family-names: Arruda Maciel
+    orcid: "https://orcid.org/0009-0007-4514-4891"
+    affiliation: "Faculdade de Medicina da Universidade de São Paulo"
+  - given-names: Kauã Gabriel
+    family-names: Oliveira da Silva
+    affiliation: "Faculdade de Medicina da Universidade de São Paulo"
+  - given-names: Vinicius
+    family-names: Galbim de Paula
+    affiliation: "Faculdade de Medicina da Universidade de São Paulo"
+  - given-names: Kim
+    family-names: Wouters
+    affiliation: "King's College London"
+  - given-names: Michelle
+    family-names: Rüedi de Paiva
+    affiliation: "Hospital das Clínicas da Faculdade de Medicina da Universidade de São Paulo"
+  - given-names: Fernando
+    family-names: Campos Gomes Pinto
+    affiliation: "Hospital das Clínicas da Faculdade de Medicina da Universidade de São Paulo"
+keywords:
+  - idiopathic normal-pressure hydrocephalus
+  - systematic review
+  - meta-analysis
+  - care pathway
+  - reproducible research
+  - neurology

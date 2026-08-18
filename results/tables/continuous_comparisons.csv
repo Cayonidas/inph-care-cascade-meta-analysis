@@ -1,0 +1,6 @@
+comparison_id,study_id,outcome,group1_label,group0_label,estimate,ci_low,ci_high,unit,measure,role,notes
+ACOSTA_EVAL_TO_HVLP,ACOSTA2021,Initial neurology assessment to HVLP,Standardized protocol,Pre-protocol,-180.2,-422.49488341414934,62.094883414149365,days,Mean difference,Implementation delay,Highly skewed historical comparator; interpret mean difference cautiously
+ACOSTA_EVAL_TO_NEUROSURGERY,ACOSTA2021,Initial neurology assessment to neurosurgical evaluation,Standardized protocol,Pre-protocol,-132,-340.745702975567,76.74570297556699,days,Mean difference,Implementation delay,Highly skewed historical comparator
+ACOSTA_HVLP_TO_NEUROSURGERY,ACOSTA2021,HVLP to neurosurgical evaluation,Standardized protocol,Pre-protocol,-40.3,-91.45737992778402,10.857379927784017,days,Mean difference,Implementation delay,Compatible anchor within one study
+ACOSTA_EVAL_TO_SHUNT,ACOSTA2021,Initial neurology assessment to shunt,Standardized protocol,Pre-protocol,-170.89999999999998,-413.2295609629664,71.42956096296643,days,Mean difference,Implementation delay,Analysis restricted to shunted patients
+ACOSTA_HVLP_TO_SHUNT,ACOSTA2021,HVLP to shunt,Standardized protocol,Pre-protocol,-85.1,-152.95630456136195,-17.243695438638056,days,Mean difference,Implementation delay,Analysis restricted to shunted patients

@@ -1,0 +1,8 @@
+analysis_id,analysis_label,k,n_total,distinct_countries,min_year,max_year,synthesis,meta_regression,small_study_tests
+P1_REFERRAL_TO_SHUNT,Initial suspicion/referral to shunt,7,1646,5,2001,2024,Random-effects meta-analysis,Not eligible,Not performed
+P2_DIAGNOSED_TO_SHUNT,Diagnosed/probable iNPH to shunt,7,837,7,2001,2026,Random-effects meta-analysis,Not eligible,Not performed
+S1_REFERRAL_TO_DIAGNOSIS,Initial suspicion/referral to iNPH diagnosis,6,1251,6,2001,2024,Random-effects meta-analysis,Not eligible,Not performed
+S2_TEST_COMPLETION,Completion of study-defined planned specialized/invasive work-up,7,522,5,2008,2026,Random-effects meta-analysis,Not eligible,Not performed
+S3_TEST_POSITIVE_TO_SHUNT,Positive prognostic test to shunt,5,312,4,2005,2021,Random-effects meta-analysis,Not eligible,Not performed
+S4_RECOMMENDATION_TO_SHUNT,Surgical referral/recommendation to shunt,3,248,3,2020,2026,Random-effects meta-analysis,Not eligible,Not performed
+S5_POSTSHUNT_RESPONSE_6_12M,Clinical response approximately 6-12 months after CSF diversion,5,318,4,2016,2026,Random-effects meta-analysis,Not eligible,Not performed

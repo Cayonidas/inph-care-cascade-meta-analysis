@@ -1,0 +1,7 @@
+comparison_id,study_id,outcome,group1_label,group0_label,estimate,ci_low,ci_high,measure,role,notes
+ACOSTA_HVLP_COMPLETION,ACOSTA2021,HVLP completion,Standardized protocol,Pre-protocol,1.5843749999999999,1.1644925612515784,2.1556549386000614,Risk ratio,Implementation,Unadjusted within-center before-after comparison
+ACOSTA_COGNITIVE_TESTING,ACOSTA2021,Cognitive testing completion,Standardized protocol,Pre-protocol,2.4699999999999998,1.5111039526894705,4.037379419954257,Risk ratio,Implementation,Unadjusted within-center before-after comparison
+ACOSTA_SHUNT_RECEIPT,ACOSTA2021,Shunt receipt,Standardized protocol,Pre-protocol,0.6795454545454545,0.49701457494517987,0.9291116358998575,Risk ratio,Implementation,Treatment receipt is influenced by selection as well as implementation
+ACOSTA_RESPONSE,ACOSTA2021,Clinical response among shunted,Standardized protocol,Pre-protocol,1.2869047619047618,1.015939028205304,1.6301410027910426,Risk ratio,Implementation,Boundary cell handled directly by the RR model
+ANDREN_RESPONSE,ANDREN2021,Postoperative response,Delayed treatment,Early treatment,0.6195286195286195,0.4266368732122363,0.8996308910788933,Risk ratio,Delay consequence,Non-randomized waiting-time comparison
+POUDEL_IMPROVEMENT,POUDEL2026,Short-term functional improvement,Operated,Not operated,4.375,1.1687275863350746,16.377319423101547,Risk ratio,Treatment context,Strong confounding by indication; contextual only

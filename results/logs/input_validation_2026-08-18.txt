@@ -1,0 +1,20 @@
+Independent input audit: 2026-08-18
+
+Reported transition effects: 140
+Derived effects: 5
+Analysis-map rows: 59
+Unique mapped source effects: 57
+Unmatched mapped effects: 0
+Duplicated map rows (effect + analysis + set): 0
+Unknown study IDs in map: 0
+
+Strict-set feasibility (descriptive counts, not pooled estimates)
+P1_REFERRAL_TO_SHUNT: k=7, events=706, denominators=1646
+P2_DIAGNOSED_TO_SHUNT: k=7, events=644, denominators=837
+S1_REFERRAL_TO_DIAGNOSIS: k=6, events=660, denominators=1251
+S2_TEST_COMPLETION: k=7, events=474, denominators=522
+S3_TEST_POSITIVE_TO_SHUNT: k=5, events=282, denominators=312
+S4_RECOMMENDATION_TO_SHUNT: k=3, events=216, denominators=248
+S5_POSTSHUNT_RESPONSE_6_12M: k=5, events=256, denominators=318
+
+R delimiter smoke-test errors: 0

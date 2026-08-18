@@ -1,0 +1,33 @@
+project_title: "Diagnostic and care-cascade gaps in idiopathic normal-pressure hydrocephalus"
+prospero_id: "CRD420261458736"
+master_workbook: "data/raw/iNPH_Master_ReExtraction_v4.xlsx"
+confidence_level: 0.95
+minimum_k_pool: 3
+minimum_k_subgroup_level: 3
+minimum_k_meta_regression: 10
+minimum_k_multivariable_meta_regression: 20
+minimum_k_small_study: 10
+primary_model: "binomial-normal GLMM with logit link and ML heterogeneity"
+sensitivity_model: "logit inverse-variance random effects with REML and Hartung-Knapp"
+primary_analyses:
+  - "P1_REFERRAL_TO_SHUNT"
+  - "P2_DIAGNOSED_TO_SHUNT"
+secondary_analyses:
+  - "S1_REFERRAL_TO_DIAGNOSIS"
+  - "S2_TEST_COMPLETION"
+  - "S3_TEST_POSITIVE_TO_SHUNT"
+  - "S4_RECOMMENDATION_TO_SHUNT"
+  - "S5_POSTSHUNT_RESPONSE_6_12M"
+strict_set: "primary"
+forest_order:
+  - "P1_REFERRAL_TO_SHUNT"
+  - "P2_DIAGNOSED_TO_SHUNT"
+  - "S1_REFERRAL_TO_DIAGNOSIS"
+  - "S2_TEST_COMPLETION"
+  - "S3_TEST_POSITIVE_TO_SHUNT"
+  - "S4_RECOMMENDATION_TO_SHUNT"
+  - "S5_POSTSHUNT_RESPONSE_6_12M"
+plot_dpi_png: 300
+plot_dpi_tiff: 600
+plot_width_inches: 11
+seed: 20260722
